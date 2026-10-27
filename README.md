@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Hala Khan! 👋
 
-<!--
-**halakhan2007/halakhan2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year B.Sc. Data Science student  
+📊 Interested in Data Analysis, Python, and Data Science  
+💻 Learning by building projects and solving real-world problems  
+🌱 Currently exploring Machine Learning and improving my technical skills
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, SQL, HTML, CSS, JavaScript
+- **Data Analysis:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
+- **Web & Apps:** Streamlit, Flask
+- **Tools:** Git, GitHub, Excel
+
+### 🚀 Featured Projects
+
+- **Amazon Sales Analysis:** Analyzed sales data using Pandas and Matplotlib to explore business questions and visualize insights.
+- **Login App AI:** Built a Streamlit application as a personal project.
+- **MediShield AI:** Contributed to a group project combining web technologies and Streamlit.
+- **Linear Algebra Website:** Developed an educational website using HTML, CSS, JavaScript, and Flask.
+
+### 📫 Connect With Me
+
+- GitHub: [@halakhan2007](https://github.com/halakhan2007)
+
+---
+
+*Always learning, building, and growing one project at a time.* 🌱
