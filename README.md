@@ -13,6 +13,14 @@
 - **Web & Apps:** Streamlit, Flask
 - **Tools:** Git, GitHub, Excel
 
+### 📐 Mathematics & Foundations
+
+- Statistics and Probability
+- Linear Algebra
+- Discrete Mathematics
+- Operations Research
+- Applied Logic, Analytical Reasoning & Coding Techniques (ALAR)
+
 ### 🚀 Featured Projects
 
 - **Amazon Sales Analysis:** Analyzed sales data using Pandas and Matplotlib to explore business questions and visualize insights.
