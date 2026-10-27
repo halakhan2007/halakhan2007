@@ -23,10 +23,10 @@
 
 ### 🚀 Featured Projects
 
-- **Amazon Sales Analysis:** Analyzed sales data using Pandas and Matplotlib to explore business questions and visualize insights.
-- **Login App AI:** Built a Streamlit application as a personal project.
-- **MediShield AI:** Contributed to a group project combining web technologies and Streamlit.
-- **Linear Algebra Website:** Developed an educational website using HTML, CSS, JavaScript, and Flask.
+- **Amazon Sales Analysis:** Analyzed Amazon sales data using Pandas and Matplotlib to explore revenue, customer ratings, regional performance, and discount trends.
+- **Patient Login App:** Built a simple patient login interface using Python and Streamlit.
+- **MediShield AI:** Contributed to a collaborative healthcare web project using Python, Streamlit, HTML, and CSS.
+- **Linear Algebra Website:** Developed the backend for an educational linear algebra solver using Python and Flask, implementing mathematical methods and integrating them into a web application.
 
 ### 📫 Connect With Me
 
